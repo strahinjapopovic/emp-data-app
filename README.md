@@ -54,7 +54,7 @@ Application `emp-data-app` or Employee Data Application is a small command line 
 [<img src="./app/screenshots/app-logo.PNG" width="1200" alt="Git Bash Terminal screenshot." />](./app/screenshots/app-logo.PNG)
 
 ## Git Bash Terminal setting up origin main
-[<img src="./app/screenshots/gitbash-operational-state-app-border.PNG" width="1200" alt="Git Bash Terminal screenshot." />](./app/screenshots/gitbash-operational-state-dir.PNG)
+[<img src="./app/screenshots/gitbash-operational-state-app-border.PNG" width="1200" alt="Git Bash Terminal screenshot." />](./app/screenshots/gitbash-operational-state-app-border.PNG)
 
 <a id="installation-process"></a>
 ## Installation Process
