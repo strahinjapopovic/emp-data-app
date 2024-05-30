@@ -1,0 +1,29 @@
+{
+  "name": "emp-data-app",
+  "version": "1.0.0",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "chalk": "^4.1.2",
+    "console.table": "^0.10.0",
+    "dotenv": "^16.4.5",
+    "express": "^4.19.2",
+    "figlet": "^1.7.0",
+    "inquirer": "^8.2.4",
+    "inquirer-loop": "^0.3.0",
+    "neofetch": "^7.1.0",
+    "pg": "^8.11.5",
+    "readline": "^1.3.0",
+    "sequelize": "^6.37.3",
+    "systeminformation": "^4.34.23",
+    "validator": "^13.12.0"
+  }
+}
